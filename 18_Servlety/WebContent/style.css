@@ -1,0 +1,14 @@
+body{
+	background-color: yellow
+	
+	font-family; 'Roboto','Arial',sans-serif;
+}
+
+h1{
+	text-align: center;
+	color: blue;
+}
+.error{
+	text-align: center;
+	color: blue;
+}
